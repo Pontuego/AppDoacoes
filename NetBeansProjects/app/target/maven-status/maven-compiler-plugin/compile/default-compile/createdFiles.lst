@@ -1,0 +1,7 @@
+br\com\doacoes\app\armazem.class
+br\com\doacoes\app\envioCesta.class
+br\com\doacoes\app\doador.class
+br\com\doacoes\app\recebimento.class
+br\com\doacoes\app\destinatario.class
+br\com\doacoes\app\doacao.class
+br\com\doacoes\app\usuario.class
